@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\bin\Debug\net9.0\Enumeraciones_Switch.exe
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\bin\Debug\net9.0\Enumeraciones_Switch.deps.json
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\bin\Debug\net9.0\Enumeraciones_Switch.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\bin\Debug\net9.0\Enumeraciones_Switch.dll
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\bin\Debug\net9.0\Enumeraciones_Switch.pdb
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\Enumeraciones_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\Enumeraciones_Switch.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\Enumeraciones_Switch.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\Enumeraciones_Switch.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\Enumeraciones_Switch.dll
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\refint\Enumeraciones_Switch.dll
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\Enumeraciones_Switch.pdb
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\Enumeraciones_Switch.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Enumeraciones_Switch\obj\Debug\net9.0\ref\Enumeraciones_Switch.dll
